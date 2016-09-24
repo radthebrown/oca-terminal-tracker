@@ -10,7 +10,7 @@ Install the missing gem manually or:
 
 And the execute:
 
-  $ ./oca-tracker.rb :number_of_track
+  $ ./oca-tracker.rb number_of_track
 
 Output:
 
